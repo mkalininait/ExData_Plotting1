@@ -39,8 +39,7 @@ web site</a>:
 There are 4 R scripts in the repository, each builds one plot.
 
 The data is loaded from the "household_power_consumption.txt" file. For
-simplicity we assume that this file lies in the same folder as 
-the scripts.
+simplicity we assume that this file lies in the working directory.
 
 For the purposes of Coursera Assignment, each script contains code for loading the data, rather than calls a function from a separate script (<a href="https://github.com/rdpeng/ExData_Plotting1/blob/master/README.md#making-plots">"Your code file **should include code for reading the data** so that the plot can be fully reproduced"</a>).
 
