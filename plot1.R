@@ -1,3 +1,5 @@
+library(data.table)
+
 plot1 <- function() {
         
         ## loading the data
